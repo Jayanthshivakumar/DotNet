@@ -12,6 +12,9 @@ namespace OOPSDemo
        
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello");
+
             Employee emp = new Employee();//Object Creation
             Employee emp1 = new Employee();//instance or object----heap----default constructor
 
