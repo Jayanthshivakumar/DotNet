@@ -12,7 +12,7 @@ namespace OOPSDemo
        
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Merging");
             Console.WriteLine("Hello");
 
             Employee emp = new Employee();//Object Creation
